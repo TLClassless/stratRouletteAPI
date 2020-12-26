@@ -393,27 +393,27 @@
     {
       "id": 80,
       "name": "The Decision",
-      "desc": "Choose a player, they must pick between one of these options. <br>1. No armour, if you carried it over from previous rounds you must stay in spawn the whole round. <br>2. Everyone must use an SMG."
+      "desc": "Choose a player, they must pick between one of these options.  1. No armour, if you carried it over from previous rounds you must stay in spawn the whole round.  2. Everyone must use an SMG."
     },
     {
       "id": 81,
       "name": "One of two",
-      "desc": "Choose a player, they must pick between one of these options. <br>1. Everyone must use a SMG and a Pistol without armour. <br>2. Everyone must use a Shotgun and no pistol with armour."
+      "desc": "Choose a player, they must pick between one of these options.  1. Everyone must use a SMG and a Pistol without armour.  2. Everyone must use a Shotgun and no pistol with armour."
     },
     {
       "id": 82,
       "name": "Top Frag decides",
-      "desc": "The top frag must pick between one of these options. <br>1. Everyone stack a site of your choice site with an LMG. <br>2. Dualies only."
+      "desc": "The top frag must pick between one of these options.  1. Everyone stack a site of your choice site with an LMG.  2. Dualies only."
     },
     {
       "id": 83,
       "name": "Middle Frag decides",
-      "desc": "The middle frag must pick between one of these options. <br>1. Only an SMG and a Pistol with no armour or grenades. <br>2. A shotgun and no pistol with armour and grenades."
+      "desc": "The middle frag must pick between one of these options.  1. Only an SMG and a Pistol with no armour or grenades.  2. A shotgun and no pistol with armour and grenades."
     },
     {
       "id": 84,
       "name": "Bottom Frag decides",
-      "desc": "The bottom frag must pick between one of these options. <br>1. The bottom frag is the only one allowed to have armour. <br>2. Everyone but the bottom frag can have armour."
+      "desc": "The bottom frag must pick between one of these options.  1. The bottom frag is the only one allowed to have armour.  2. Everyone but the bottom frag can have armour."
     },
     {
       "id": 85,
